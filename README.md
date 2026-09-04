@@ -15,7 +15,7 @@ I'm a final-year B.Tech student specializing in Artificial Intelligence & Data S
 
 ### 🛠️ Technical Skills
 
-**Languages:** Python,C, SQL
+**Languages:** Python,Java,C, SQL
 
 **AI & Data Science:** Machine Learning, NLP, Pandas, NumPy, Matplotlib, Scikit-learn
 
